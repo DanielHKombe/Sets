@@ -48,38 +48,10 @@ setOperations.cpp (main.cpp):
 Handles user input and controls the flow of the program.
 
 Example
-[ENTER] the number of elements in the Universe: 5
-[ENTER] all the 5 elements in the Universal set:
-1 2 3 4 5
-How many sets do you want to create: 2
-What will this set be called: A
-[ENTER] the number of elements in set A:
-{ 2 }
-[ENTER] all the 2 elements in set A:
-{ 1 2 }
-What will this set be called: B
-[ENTER] the number of elements in set B:
-{ 2 }
-[ENTER] all the 2 elements in set B:
-{ 2 3 }
+![image](https://github.com/user-attachments/assets/1165c263-b4e2-4551-988f-5ecd9f977fe7)
+![image](https://github.com/user-attachments/assets/437ca23e-7b89-4e91-8d2f-362e02f067c6)
+![image](https://github.com/user-attachments/assets/73c9da8e-57a4-47d2-8622-f1435b677324)
 
-...
-
-The intersection of the sets is:
-{ 2 }
-
-The union of the sets is:
-{ 1 2 3 }
-
-A - Intersection:
-{ 1 }
-B - Intersection:
-{ 3 }
-
-Complement of A:
-{ 3 4 5 }
-Complement of B:
-{ 1 4 5 }
 
 How to Run
 Clone the repository:
